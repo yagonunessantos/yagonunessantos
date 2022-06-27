@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo Yago Nunes</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar" role="navigation" aria-label="main navigation">
+            <div class="navbar-brand">
+
+
+                <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false"
+                    data-target="navbarBasicExample">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
+                <div id="navbarBasicExample" class="navbar-menu is-active">
+                    <div class="navbar-start">
+                        <a class="navbar-item" href="index.html">
+                            Inicio
+                        </a>
+
+
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <section class="section">
+        <div class="container">
+            <div class="columns">
+                <div class="column">
+                    <div class="card">
+                        <div class="card-image">
+
+                        </div>
+                        <div class="card-content">
+                            <div class="media">
+                                <div class="media-content">
+                                    <p class="title is-4">Yago Nunes</p>
+                                    <span class="tag is-dark is-medium"> Javascript Full Stack Developer</span>
+
+                                </div>
+                            </div>
+
+                            <div class="content">
+                                <p> (11) 95334-0813</p>
+                                <p> yagonunes.santos1@gmail.com</p>
+                                <p>https://www.linkedin.com/in/yagonunes/</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="column is-9">
+                    <div class="card">
+                        <header class="card-header">
+                            <p class="card-header-title">
+                                SOBRE MIM
+                            </p>
+                            <button class="card-header-icon" aria-label="more options">
+                                <span class="icon">
+                                    <i class="fas fa-angle-down" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </header>
+                        <div class="card-content">
+                            <div class="content">
+                                Estou em busca de oportunidades na esfera da tecnologia, principalmente na área de
+                                desenvolvimento de sistemas. Atualmente, sou advogado, mas estou cursando Análise e
+                                desenvolvimento de sistemas na Faculdade Impacta, com previsão de término em 06/2024.
+                                Possuo uma carreira desenvolvida na área Jurídica, com ênfase em relações do consumidor,
+                                indenizações, pesquisa de doutrina e jurisprudência, participação em audiências e preparo de
+                                recursos, defesas e alegações, atuando com foco no cumprimento de normas instituídas e
+                                excelência dos serviços prestados.
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <br>
+                    <div class="card">
+                        <header class="card-header">
+                            <p class="card-header-title">
+                                CURSOS EXTRA CURICULARES
+                            </p>
+                            <button class="card-header-icon" aria-label="more options">
+                                <span class="icon">
+                                    <i class="fas fa-angle-down" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </header>
+                        <div class="card-content">
+                            <div class="content">
+                                <div class="columns">
+                                    <div class="column">
+
+
+                                    </div>
+                                    <div class="column is-9"> <section class="tag is-dark">CURSO EM VÍDEO</section>
+                                        <ul>
+                                            <li>Algoritmo Concluído em 12/2021 </li>
+                                            <li>Javascript Concluído em 12/2021</li>
+                                            <li>HTML 5 e CSS 3 Concluído em 01/2022</li>
+                                            <li>Python Concluído em 05/20222</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card">
+                        <header class="card-header">
+                            <p class="card-header-title">
+                                
+                            </p>
+                            <button class="card-header-icon" aria-label="more options">
+                                <span class="icon">
+                                    <i class="fas fa-angle-down" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </header>
+                        <div class="card-content">
+                            <div class="content">
+                                <div class="columns">
+                                    <div class="column">
+                                        
+
+                                    </div>
+                                    <div class="column is-9"> <section class="tag is-dark">Onebitcode – Programador Full Stack Javascript</section>
+                                        <ul>
+                                            <li>HTML5 – Concluído</li>
+                                            <li>CSS3 – Concluído</li>
+                                            <li>BULMA – Concluído</li>
+                                            <li>JAVASCRIPT – Concluído</li>
+                                            <li>GIT e GITHUB – Em andamento</li>
+                                            <li>REACT.JS – Em andamento</li>
+                                            <li>NODE.JS</li>
+                                            <li>MONGODB</li>
+                                            <li>TYPESCRIPT</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <br>
+                    <div class="card">
+
+                        <header class="card-header">
+                            <p class="card-header-title">
+                                FORMAÇÃO
+                            </p>
+                            <button class="card-header-icon" aria-label="more options">
+                                <span class="icon">
+                                    <i class="fas fa-angle-down" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </header>
+                        <div class="card-content">
+                            <div class="content">
+                                <div class="columns">
+
+
+                                    </div>
+                                    <div class="column is-9"> <section class="tag is-dark">UNIVERSIDADES</section>
+                                        <ul>
+                                            <li>Faculdade Impacta de tecnologia, São Paulo - Análise e desenvolvimento de sistemas -  01/2022 - 06/2024</li>
+                                            <li>Universidade Cruzeiro do Sul, São Paulo - Direito - 01/2015 - 12/2019</li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+
+    </section>
+
+</body>
+
+</html>
